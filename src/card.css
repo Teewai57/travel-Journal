@@ -2,9 +2,9 @@
 border: none;
 }
 .image{
-    width: 50% !important;
-    height: 50% !important;
-    border-radius: 100%;
+    width: 13rem !important;
+    height: 13rem !important;
+    border-radius: 50% !important;
 }
 .link-icon{
     padding: 0.5rem;

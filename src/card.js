@@ -3,11 +3,11 @@ import './card.css'
 
 export default function Cards(props) {
     return (
-        <div className="col-md-3 m-2">
+        <div className="col-md-3 mb-2">
             <div className="card shadow">
                 <div className="card-body">
                     <div className="text-center">
-                        <img className="image rounded-circle" src={props.item.imageUrl} alt="sky-image"></img>
+                        <img className="image" src={props.item.imageUrl} alt="sky-image"></img>
                         <h3 className="card-title">{props.item.name}</h3>
                         <h5 className="card-text">{props.item.occupation}</h5>
                         <p className="">{props.item.email}</p>
@@ -16,7 +16,7 @@ export default function Cards(props) {
                             <button className="btn linkedin-btn">Linkedin</button>
                         </div>
                     </div>
-                    <div>
+                    <div className="m-2">
                         <h5>About</h5>
                         <p>I'm a Developer particularly interested in making the daily activities and tasks easier</p>
                         <div className="text-center">
