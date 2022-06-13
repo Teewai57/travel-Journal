@@ -17,8 +17,10 @@ export default function App() {
   return(
     <div>
           <Navbar />
-          <section className='cards-list'>
+          <section className='cards-list container'>
+            <div className='row justify-content-center mt-5'>
             {cards}
+            </div>
           </section>
     </div>
   )

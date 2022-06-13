@@ -1,0 +1,9 @@
+.image{
+    width: 50% !important;
+    height: 50% !important;
+    border-radius: 100%;
+}
+.link-icon{
+    padding: 0.5rem;
+    font-size: 1.2rem !important;
+}
