@@ -1,3 +1,6 @@
+.card{
+border: none;
+}
 .image{
     width: 50% !important;
     height: 50% !important;
@@ -6,4 +9,23 @@
 .link-icon{
     padding: 0.5rem;
     font-size: 1.2rem !important;
+}
+button{
+    border: none !important;
+    font-size: 0.8rem;
+    padding: 2px 20px !important;
+    border-radius: 2px;
+    margin: 5px;
+}
+.Email-btn{
+    background-color: grey;
+    color: black;
+}
+.linkedin-btn{
+    background-color: rgb(28, 24, 53);
+    color: white;
+}
+.linkedin-btn:hover{
+    background-color: rgb(28, 24, 53);
+    color: white;
 }
