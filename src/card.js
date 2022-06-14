@@ -3,7 +3,7 @@ import './card.css'
 
 export default function Cards(props) {
     return (
-        <div className="col-md-3 mb-2">
+        <div className="col-md-4 mb-2">
             <div className="card shadow">
                 <div className="card-body">
                     <div className="text-center">

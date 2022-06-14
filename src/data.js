@@ -5,6 +5,7 @@ export default [
         name: "John Doe",
         occupation: "Devops Engineer",
         email: "johndoe.website",
+        gender: "male"
 
        },
     {
@@ -13,6 +14,7 @@ export default [
         name: "John Doe",
         occupation: "Devops Engineer",
         email: "johndoe.website",
+        gender: "female"
 
        },
     {
@@ -21,6 +23,8 @@ export default [
         name: "John Doe",
         occupation: "Devops Engineer",
         email: "johndoe.website",
+        gender: "female"
+
 
        },
     {
@@ -29,6 +33,8 @@ export default [
         name: "John Doe",
         occupation: "Devops Engineer",
         email: "johndoe.website",
+        gender: "male"
+
 
        },
     {
@@ -37,6 +43,8 @@ export default [
         name: "John Doe",
         occupation: "Devops Engineer",
         email: "johndoe.website",
+        gender: "male"
+
 
        },
     {
@@ -45,6 +53,8 @@ export default [
         name: "John Doe",
         occupation: "Devops Engineer",
         email: "johndoe.website",
+        gender: "female"
+
 
        },
 
