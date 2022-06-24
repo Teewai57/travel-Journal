@@ -7,7 +7,7 @@ export default function Navbar() {
         <div className='container-fluid p-3 text-white'>
             <div className='row justify-content-center '>
             <img src={logo} alt="earth"></img>
-            <h6 className='mx-2'>My Travel Journal</h6>
+            <h6 className='mx-2'>Profiles</h6>
             </div>
         </div>
     )
