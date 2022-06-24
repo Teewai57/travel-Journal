@@ -51,7 +51,7 @@ export default [
         id: 6,
         imageUrl:  "https://media.istockphoto.com/photos/beautiful-woman-picture-id1021162344?k=20&m=1021162344&s=612x612&w=0&h=zVsn5v6F07ifGKzVXbqbjweoDz7mC7G-um_s40OXwqo=",
         name: "Amanda Richards",
-        occupation: "Devops Engineer",
+        occupation: "UI/UX designer",
         email: "Amanda.website",
         gender: "female"
 
